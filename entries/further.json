@@ -1,0 +1,17 @@
+{
+  "word": "further",
+  "senses": [
+    {
+      "headword": "further (adv.)",
+      "text": "Old English furðor, forðor \"to a more advanced position, forward, onward, beyond, more distant; farther away; later, afterward; to a greater degree or extent, in addition; moreover,\" etymologically representing either \"forth-er\" or \"fore-ther.\" The former would be from furðum (see forth) + comparative suffix *-eron-, *-uron- (compare inner, outer).\n\nAlternative etymology (Watkins) traces it to Proto-Germanic *furthera-, from PIE *pr-tero- (source also of Greek proteros \"former\"), representing the root *per- (1) \"forward, through\" (see per) + comparative suffix also found in after, other. Senses of \"in addition, to a greater extent\" are later metaphoric developments.\n\nIt replaced or absorbed farrer, ferrer as comparative of far (itself a comparative but no longer felt as one). Farrer itself displaced Old English fierr in this job; farrer survived until 17c., then was reduced to dialect by rival farther. \"The primary sense of further, farther is 'more forward, more onward'; but this sense is practically coincident with that of the comparative degree of far, where the latter word refers to real or attributed motion in some particular direction.\" [OED]"
+    },
+    {
+      "headword": "further (v.)",
+      "text": "Old English fyrðran, fyrðrian \"to impel, urge on; advance, promote, benefit;\" see further (adv.). Compare Middle Low German vorderen, Old High German furdiran, German fördern, probably from their respective adjectives via the notion in phrases such as Old English don furðor \"to promote.\" Related: Furthered; furthering. After the further/farther split, this sense also continued in a shadow verb farther (v.), attested from 16c. but apparently dying out 19c."
+    },
+    {
+      "headword": "further (adj.)",
+      "text": "Old English furðra \"further, greater, superior,\" probably a prehistoric derivative of further (adv.). Compare Old Frisian fordera, German vorder \"that is before another.\" In early Middle English it also meant \"earlier, former, previous;\" a great-grandfather was a furþur ealdefader (12c.), and a previous wife was referred to legally as a forther wife."
+    }
+  ]
+}
