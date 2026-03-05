@@ -1,0 +1,21 @@
+{
+  "word": "host",
+  "senses": [
+    {
+      "headword": "host (n.1)",
+      "text": "\"person who receives guests,\" especially for pay, late 13c., from Old French oste, hoste \"guest, host, hostess, landlord\" (12c., Modern French hôte), from Latin hospitem (nominative hospes) \"guest, stranger, sojourner, visitor (hence also 'foreigner'),\" also \"host; one bound by ties of hospitality.\"\n\nThis appears to be from PIE *ghos-pot-, a compound meaning \"guest-master\" (compare Old Church Slavonic gospodi \"lord, master,\" literally \"lord of strangers\"), from the roots *ghosti- \"stranger, guest, host\" (source also of Old Church Slavonic gosti \"guest, friend;\" see guest (n.)) and *poti- \"powerful; lord\" (see potent). The etymological notion is of someone \"with whom one has reciprocal duties of hospitality\" [Watkins]:\n\nThe word ghos-ti- was thus the central expression of the guest-host relationship, a mutual exchange relationship highly important to ancient Indo-European society. A guest-friendship was a bond of trust between two people that was accompanied by ritualized gift-giving and created an obligation of mutual hospitality and friendship that, once established, could continue in perpetuity and be renewed years later by the same parties or their descendants. [Watkins, \"American Heritage Dictionary of Indo-European Roots\"]\n\nThe biological sense of \"animal or plant having a parasite\" is from 1857."
+    },
+    {
+      "headword": "host (n.2)",
+      "text": "\"a multitude,\" especially an army organized for war, mid-13c., from Old French ost, host \"army\" (10c.), from Medieval Latin hostis \"army, war-like expedition,\" from Latin hostis \"enemy, foreigner, stranger,\" from the same root as host (n.1). Replaced Old English here (see harry (v.)), and in turn has been largely superseded by army. The generalized meaning of \"large number\" is first attested 1610s. The Latin h- was lost in Old French, then restored in Old French and Middle English spelling, and in modern English also in pronunciation. Lord of Hosts translates Hebrew Jehovah Ts'baoth (which appears more than 260 times throughout the Bible) and seems to refer to both heavenly (angelic) and earthly hosts."
+    },
+    {
+      "headword": "host (n.3)",
+      "text": "\"body of Christ, consecrated bread,\" c. 1300, from Latin hostia \"sacrifice,\" also \"the animal sacrificed, victim,\" probably ultimately related to host (n.1) in its root sense of \"stranger, enemy.\" Applied in Church Latin to Christ, in Medieval Latin to the consecrated bread."
+    },
+    {
+      "headword": "host (v.)",
+      "text": "\"to serve as a host,\" early 15c., originally in the sense \"give entertainment, receive as a guest,\" from host (n.1). Related: Hosted; hosting."
+    }
+  ]
+}
