@@ -1,0 +1,25 @@
+{
+  "word": "mine",
+  "senses": [
+    {
+      "headword": "mine (pron.)",
+      "text": "Old English min \"mine, my,\" (pronoun and adjective), from Proto-Germanic *minaz (source also of Old Frisian, Old Saxon Old High German min, Middle Dutch, Dutch mijn, German mein, Old Norse minn, Gothic meins \"my, mine\"), from the base of me. Superseded as adjective beginning 13c. by my."
+    },
+    {
+      "headword": "mine (n.1)",
+      "text": "\"pit or tunnel in the earth for obtaining metals and minerals,\" c. 1300, from Old French mine \"vein, lode; tunnel, shaft; mineral ore; mine\" (for coal, tin, etc,), of uncertain origin, probably from a Celtic source (compare Welsh mwyn, Irish mein \"ore, mine\"), from Old Celtic *meini-. Italy and Greece were relatively poor in minerals, thus they did not contribute a word for this to English, but there was extensive mining from an early date in Celtic lands (Cornwall, etc.). From c. 1400 as \"a tunnel under fortifications to overthrow them.\""
+    },
+    {
+      "headword": "mine (v.2)",
+      "text": "\"lay explosives,\" 1620s, in reference to old tactic of tunneling under enemy fortifications to blow them up; a specialized sense of mine (v.1) via a sense of \"dig under foundations to undermine them\" (late 14c.), and miner in this sense is attested from late 13c. Related: Mined; mining."
+    },
+    {
+      "headword": "mine (v.1)",
+      "text": "to dig, c. 1300, \"to tunnel under fortifications to overthrow them,\" from mine (n.1) or from Old French miner \"to dig, mine; exterminate.\" From mid-14c. as \"to dig in the earth\" (for treasure, etc.). Figurative use from mid-14c. Related: Mined; mining."
+    },
+    {
+      "headword": "mine (n.2)",
+      "text": "explosive device, by 1850, from mine (v.2)."
+    }
+  ]
+}
