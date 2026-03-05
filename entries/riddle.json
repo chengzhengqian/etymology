@@ -1,0 +1,21 @@
+{
+  "word": "riddle",
+  "senses": [
+    {
+      "headword": "riddle (n.1)",
+      "text": "\"A word game or joke, comprising a question or statement couched in deliberately puzzling terms, propounded for solving by the hearer/reader using clues embedded within that wording\" [Oxford Dictionary of English Folklore], early 13c., from Old English rædels \"riddle; counsel; conjecture; imagination; discussion,\" common Germanic (Old Frisian riedsal \"riddle,\" Old Saxon radisli, Middle Dutch raetsel, Dutch raadsel, Old High German radisle, German Rätsel \"riddle\").\n\nThe first element is from Proto-Germanic *redaz-, from PIE *re-dh-, from PIE *re(1)- \"to reason, count\" (source also of Old English rædan \"to advise, counsel, read, guess;\" see read (v.)). The ending is Old English noun suffix -els, the -s of which later was mistaken for a plural affix and stripped off. Meaning \"anything which puzzles or perplexes\" is from late 14c."
+    },
+    {
+      "headword": "riddle (v.1)",
+      "text": "\"perforate with many holes,\" 1817 (implied in riddled), earlier \"sift\" (early 13c.), from Middle English ridelle \"coarse sieve,\" from late Old English hriddel \"sieve,\" altered by dissimilation from Old English hridder \"sieve\" (see riddle (n.2))."
+    },
+    {
+      "headword": "riddle (v.2)",
+      "text": "\"to pose as a riddle,\" 1570s, from riddle (n.1). Related: Riddled; riddler; riddling."
+    },
+    {
+      "headword": "riddle (n.2)",
+      "text": "\"coarse sieve,\" mid-14c., alteration of late Old English hriddel, dissimilated from hridder, from Proto-Germanic *hrida- (source also of German Reiter), from PIE root *krei- \"to sieve,\" and thus related to Latin cribrum \"sieve, riddle,\" Greek krinein \"to separate, distinguish, decide\" (see crisis)."
+    }
+  ]
+}
