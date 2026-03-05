@@ -1,0 +1,13 @@
+{
+  "word": "yield",
+  "senses": [
+    {
+      "headword": "yield (v.)",
+      "text": "Old English gieldan (West Saxon), geldan (Anglian) \"to pay, pay for; reward, render; worship, serve, sacrifice to\" (class III strong verb; past tense geald, past participle golden), from Proto-Germanic *geldan \"pay\" (source also of Old Saxon geldan \"to be worth,\" Old Norse gjaldo \"to repay, return,\" Middle Dutch ghelden, Dutch gelden \"to cost, be worth, concern,\" Old High German geltan, German gelten \"to be worth,\" Gothic fra-gildan \"to repay, requite\"). This is from PIE *gheldh- \"to pay,\" a root found only in Balto-Slavic and Germanic (and Old Church Slavonic žledo, Lithuanian geliuoti might be Germanic loan-words).\n\n\"[T]he only generally surviving senses on the Continent are 'to be worth; to be valid, to concern, apply to,' which are not represented at all in the English word\" [OED]; sense development in English comes via use of this word to translate Latin reddere, French rendre. Sense of \"give in return for labor or capital invested\" is from early 14c. Intransitive sense of \"give oneself up, submit, surrender (to a foe)\" is from c. 1300. Related to Middle Low German and Middle Dutch gelt, Dutch geld, German Geld \"money.\" Related: Yielded; yielding."
+    },
+    {
+      "headword": "yield (n.)",
+      "text": "Old English gield \"payment, sum of money; service, offering, worship;\" from the source of yield (v.). Extended sense of \"production\" (as of crops) is first attested mid-15c. Earliest English sense survives in financial \"yield from investments.\""
+    }
+  ]
+}
