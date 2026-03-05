@@ -1,0 +1,17 @@
+{
+  "word": "indent",
+  "senses": [
+    {
+      "headword": "indent (v.1)",
+      "text": "early 15c., indenten, endenten \"to make notches; to give (something) a toothed or jagged appearance,\" also \"to make a legal indenture, make a written formal agreement or contract,\" from Old French endenter \"to notch or dent, give a serrated edge to\" (12c.) and directly from Medieval Latin indentare \"to furnish with teeth,\" from in- \"into, in, on, upon\" (see in- (2)) + verb from Latin dens (genitive dentis) \"tooth\" (see tooth).\n\nAn indented document was usually, if not always, written in two or more identical versions. Orig. these were written on a single sheet of parchment and then cut apart along a zigzag, or 'indented' line. Each party to the agreement retained one copy, which he could readily authenticate by matching its serrate edge with that of another copy. [Middle English Dictionary]\n\nThe printing sense \"insert white space to force text inward\" is first attested 1670s. Related: Indented (late 14c.); indenting."
+    },
+    {
+      "headword": "indent (v.2)",
+      "text": "\"to dent or press in,\" c. 1400, from in (adv.) + dent (v.). Etymologically distinct from indent (v.1) but felt as the same."
+    },
+    {
+      "headword": "indent (n.)",
+      "text": "\"cut or notch in a margin,\" 1590s, from indent (v.1). A supposed earlier noun sense of \"a written agreement\" (late 15c.) is described in Middle English Dictionary as \"scribal abbrev. of endenture.\""
+    }
+  ]
+}
