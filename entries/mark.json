@@ -1,0 +1,17 @@
+{
+  "word": "mark",
+  "senses": [
+    {
+      "headword": "mark (n.1)",
+      "text": "\"trace, impression,\" Old English mearc (West Saxon), merc (Mercian) \"boundary, sign, limit, mark,\" from Proto-Germanic *marko (source also of Old Norse merki \"boundary, sign,\" mörk \"forest,\" which often marked a frontier; Old Frisian merke, Gothic marka \"boundary, frontier,\" Dutch merk \"mark, brand,\" German Mark \"boundary, boundary land\"), from PIE *merg- \"edge, boundary, border\" (source also of Latin margo \"margin;\" Avestan mareza- \"border,\" Old Irish mruig, Irish bruig \"borderland,\" Welsh bro \"district\").\n\nThe primary sense is probably \"boundary,\" which had evolved by Old English through \"sign of a boundary,\" through \"sign in general,\" then to \"impression or trace forming a sign.\" Meaning \"any visible trace or impression\" first recorded c. 1200. Sense of \"line drawn to indicate starting point of a race\" (as in on your marks ...) first attested 1887. The Middle English sense of \"target\" (c. 1200) is the notion in marksman and slang sense \"victim of a swindle\" (1883). The notion of \"sign, token\" is behind the meaning \"numerical award given by a teacher\" (1829). Influenced by Scandinavian cognates."
+    },
+    {
+      "headword": "mark (n.2)",
+      "text": "\"unit of money or weight,\" late Old English marc, a unit of weight (chiefly for gold or silver) equal to about eight ounces, probably from Old Norse mörk \"unit of weight,\" cognate with German Mark, probably ultimately a derivative of mark (n.1), perhaps in sense of \"imprinted weight or coin.\" Used from 18c. in reference to various continental coinages, especially. the silver coin of Germany first issued 1875."
+    },
+    {
+      "headword": "mark (v.)",
+      "text": "\"to put a mark on,\" Old English mearcian (West Saxon), merciga (Anglian) \"to trace out boundaries,\" from Proto-Germanic *markojan (source also of Old Norse merkja, Old Saxon markon, Old Frisian merkia, Old High German marchon, German merken \"to mark, note,\" Middle Dutch and Dutch merken), from the root of mark (n.1).\n\nInfluenced by Scandinavian cognates. Meaning \"to have a mark\" is from c. 1400; that of \"to notice, observe\" is late 14c. Meaning \"to put a numerical price on an object for sale\" led to verbal phrase mark down (1859). Mark time (1833) is from military drill. Related: Marked; marking. Old French merchier \"to mark, note, stamp, brand\" is a Germanic loan-word."
+    }
+  ]
+}
